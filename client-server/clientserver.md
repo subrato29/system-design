@@ -1,4 +1,4 @@
-- dig <website-address> => display the ip-adress of the website
+- dig "website-address" => display the ip-adress of the website
 
 - If client speak to seaver by 'http' protocol => port will be 80
 
