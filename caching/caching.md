@@ -1,0 +1,2 @@
+- Caching is used to improve the latency of a system.
+- Cache is a piece of s/w or h/w that stores data to retrieve data otherwise.
