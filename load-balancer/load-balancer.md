@@ -1,0 +1,1 @@
+- load-balancer is a type of reverse proxy that distributes traffic across the servers.
