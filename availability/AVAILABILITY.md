@@ -4,7 +4,7 @@ Availability
 ```
 % of system up in a given whole year
 ```
-Nines => 
+Nines
 ```
 Measure of availability 
 e.g. 99% => 2 nines
